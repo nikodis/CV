@@ -1,0 +1,92 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Nicolás",
+      "surnames": "Disquin Mateu",
+      "title": "Linux is better than Windows",
+      "description": "I am a sysadmin, DevOps. I know Linux and Windows too, but I prefer Linux to Windows. Not only that, but I like to program in bash, python, and I am learning to program in Kotlin using android studio. Furthermore, I love to learn all days.",
+      "avatar": {
+        "alt": "IMG_20220105_083016.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/40ef8df3-3ca8-4e9c-bbbe-a5f7b965695c_img_20220105_083016.jpg"
+      },
+      "location": {
+        "notes": "Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/nicolas-disquin-130175"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Learn about any subject of study that interests me such as: computer science in general, art, history, science, video games, technologies, mysteries of humanity, archaeology, mythology, psychology, cryptocurrencies, investments, mathematics, music, etc.",
+        "fact": "For examples:\nLinux distributions, internet trends, what is the blockchain, relationship between mathematics and music, appreciating the beauty of art, what happened to a certain civilization, offers on steam, cryptocurrency market, why people behave in a certain way or other, body language, etc."
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/nicolas-disquin-130175"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Windows",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "Puppet",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Active Directory",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        },
+        {
+          "name": "DNS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
